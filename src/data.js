@@ -35,10 +35,10 @@ export const nav = [
 ];
 
 export const banner = {
-  titlePart1: 'Get the best part of your day',
-  titlePart2: '– you fit here.',
+  titlePart1: 'Start Your Journey with us',
+  titlePart2: '– You fit here.',
   subtitle:
-    'We provide serious fitness but within a fun and friendly, safe space.',
+    'We provide fitness, but within a fun and friendly space. Get better with us :)',
   textBtn: 'Join Now',
   img: '',
 };

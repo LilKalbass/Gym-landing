@@ -1,7 +1,7 @@
 import React from 'react';
 
 const NavMobile = () => {
-  return <div>NavMobile</div>;
+  return <div className= "lg:hidden">NavMobile</div>;
 };
 
 export default NavMobile;

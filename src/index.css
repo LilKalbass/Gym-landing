@@ -54,7 +54,7 @@
     @apply bg-primary-200 text-neutral-100 hover:bg-primary-200/90 transition;
   }
   .btn-secondary {
-    @apply bg-white text-neutral-500 hover:bg-white/90 transition;
+    @apply bg-pink-400 text-neutral-500 transition;
   }
   .link {
     @apply text-neutral-500 text-sm uppercase font-extrabold tracking-[1px];

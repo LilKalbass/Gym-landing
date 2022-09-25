@@ -1,7 +1,38 @@
 import React from 'react';
+import {banner} from '../data';
+
 
 const Banner = () => {
-  return <div>Banner</div>;
+  const {titlePart1, titlePart2, subtitle, textBtn} = banner;
+  return (
+      <section className = "bg-neutral-500 h-[690px]">
+          <div className = "container mx-auto h-full">
+              <div className = "flex items-center h-full relative -space-x-64 ph:left-2 lg:-space-x-24 ">
+              {/*   text    */}
+                  <div className = "flex-1 text-pink-400 z-10 lg:pl-0 pl-6">
+                      <h1 className = "h1 text-pink-400 font-medium py-4"
+                          data-aos = "fade-down" data-aos-delay = "500">
+                          {titlePart1} <br/>
+                          <span className = "flex text-primary-200 mt-2">{titlePart2}</span>
+                      </h1>
+                      <p className = "max-w-[365px] text-body-md lg:text-body-lg mb-3 lg:mb-6"
+                         data-aos = "fade-down" data-aos-delay = "600">
+                          {subtitle}
+                      </p>
+                      <button className = "btn btn-sm lg:btn-lg btn-secondary"
+                              data-aos = "fade-down" data-aos-delay = "700">
+                          {textBtn}
+                      </button>
+                  </div>
+              {/*    img    */}
+                  <div className = "flex-1 w-full h-full bg-blue-300 bg-banner bg-cover bg-right bg-no-repeat lg:bg-center"
+                       data-aos = "fade-left" data-aos-delay = "1000">
+
+                  </div>
+              </div>
+          </div>
+      </section>
+  );
 };
 
 export default Banner;
