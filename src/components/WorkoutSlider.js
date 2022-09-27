@@ -1,8 +1,7 @@
 import React from 'react';
-import {workouts} from '../data';
-
 import {Swiper, SwiperSlide} from 'swiper/react';
 import {Navigation} from 'swiper';
+import {workouts} from '../data';
 
 import 'swiper/css';
 import 'swiper/css/navigation';
