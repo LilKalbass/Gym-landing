@@ -5,7 +5,7 @@ import {pricing} from '../data';
 const Pricing = () => {
   const {icon, title, plans} = pricing;
   return (
-      <section className = "section bg-pink-200">
+      <section id = "_pricing" className = "section bg-pink-200">
         <div className = "section-title-group max-w-[540px] mx-auto px-4 lg:px-0"
              data-aos = "fade-up" data-aos-offset = "200" data-aos-delay = "200">
           <img src = {icon} alt = "pricing_icon_img"/>

@@ -6,7 +6,7 @@ import {IoIosArrowDroprightCircle} from 'react-icons/io';
 const About = () => {
   const {title, subtitle1, subtitle2, icon, link} = about;
   return (
-      <section className = "bg-pink-200 py-20 md:py-28 lg:py-36">
+      <section id = "_about" className = "bg-pink-200 py-20 md:py-28 lg:py-36">
         {/* section_bg_color */}
         <div className = "container mx-auto px-5 lg:px-32">
           <div className = "section-title-group justify-start"

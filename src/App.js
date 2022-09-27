@@ -21,7 +21,7 @@ const App = () => {
         delay: 400
     })
   return (
-    <div className = "mx-auto bg-page overflow-hidden relative">
+    <div className = "mx-auto overflow-hidden relative">
       <Header />
       <Banner />
       <About />
