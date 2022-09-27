@@ -60,7 +60,7 @@
     @apply btn btn-sm text-white transition hover:text-primary-200;
   }
   .link {
-    @apply text-neutral-500 text-sm uppercase font-extrabold tracking-[1px];
+    @apply text-neutral-500 text-sm uppercase font-semibold tracking-[0.5px] text-[15px];
   }
   .section {
     @apply pb-[80px] md:pb-[110px] lg:pb-[180px];

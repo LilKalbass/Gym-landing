@@ -45,11 +45,11 @@ export const banner = {
 
 export const about = {
   icon: UsersIcn,
-  title: 'Our misson',
+  title: 'Our Mission',
   subtitle1:
-    'We are distinguished by our unsurpassed motivating atmosphere, knowledgeable staff, and premier exercise equipment, which supports our members in meeting their individual fitness goals.',
+    'We are distinguished by motivating atmosphere, knowledgeable staff, and premier exercise equipment, which gives our members an opportunity to reach their individual fitness goals.',
   subtitle2:
-    'The strength of our heart-felt identity is utilized to inspire every person that steps foot into our gyms to better themselves.',
+    'You feel yourself inspired as you step your foot into our gym to reach beyond. Make yourself proud and accomplish whatever u want.',
   link: 'Join Now',
 };
 

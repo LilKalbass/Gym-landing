@@ -1,9 +1,8 @@
 import React from 'react';
 import {header, nav} from '../data'
 
-
 const NavMobile = ({navMobile}) => {
-    const {btnLoginText, btnSignupText} = header;
+  const {btnLoginText, btnSignupText} = header;
   return (
       <nav
           className = {`${navMobile ? "min-h-screen" : "min-h-0"} 

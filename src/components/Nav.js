@@ -1,5 +1,6 @@
 import React from 'react';
-import {nav} from '../data'
+import {nav} from '../data';
+
 const Nav = () => {
   return (
       <nav className = "hidden lg:flex">
