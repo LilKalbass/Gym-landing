@@ -27,9 +27,9 @@ const WorkoutSlider = () => {
           const {image, name} = program;
           return (
             <SwiperSlide className = "ml-[5%] max-w-[320px] min-w-[200px] max-h-[320px] relative" key = {id}>
-              <img className = "w-full h-full object-cover" src = {image} alt = "SwiperSlide_img"/>
-              <div className = "flex items-center bg-white left-5 bottom-5 h-[26px] px-4 rounded-[10px] absolute">
-                <div className = "font-primary font-bold text-sm text-neutral-500">{name}</div>
+              <img className = "w-full h-full object-cover rounded-[4px]" src = {image} alt = "SwiperSlide_img"/>
+              <div className = "flex items-center bg-neutral-500 cursor-default left-5 bottom-5 h-[26px] px-4 rounded-[10px] absolute">
+                <div className = "font-primary font-bold text-sm text-pink-400">{name}</div>
               </div>
             </SwiperSlide>
           );

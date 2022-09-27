@@ -6,6 +6,7 @@ const Banner = () => {
   const {titlePart1, titlePart2, subtitle, textBtn} = banner;
   return (
       <section className = "bg-neutral-500 h-[690px]">
+          <div className="pink4"></div>
           <div className = "container mx-auto h-full">
               <div className = "flex items-center h-full relative -space-x-64 ph:left-5 lg:-space-x-24 ">
               {/*   text    */}
@@ -19,9 +20,8 @@ const Banner = () => {
                          data-aos = "fade-down" data-aos-delay = "600">
                           {subtitle}
                       </p>
-                      <button className = "btn btn-sm lg:btn-lg btn-secondary hover:bg-pink-300"
-                              data-aos = "fade-down" data-aos-delay = "700">
-                          {textBtn}
+                      <button className = "btn btn-sm lg:btn-lg btn-secondary hover:bg-pink-400/80 lg:hover:bg-pink-400/70"
+                              data-aos = "fade-down" data-aos-delay = "700">{textBtn}
                       </button>
                   </div>
               {/*    img    */}

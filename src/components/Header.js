@@ -25,7 +25,7 @@ const Header = () => {
         </a>
         <Nav/>
         <div className = "hidden lg:flex space-x-4 mr-[%]">
-          <button className = "btn-nav">{btnLoginText}</button>
+          <button className = "btn-nav hover:text-pink-400">{btnLoginText}</button>
           <button className = "btn-nav">{btnSignupText}</button>
         </div>
           <div

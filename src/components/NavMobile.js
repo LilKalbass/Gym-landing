@@ -21,7 +21,7 @@ const NavMobile = ({navMobile}) => {
         </ul>
         {/* buttons */}
         <div className = "flex justify-center gap-x-8 -mt-44">
-            <button className = "btn-nav">{btnLoginText}</button>
+            <button className = "btn-nav hover:text-pink-400">{btnLoginText}</button>
             <button className = "btn-nav">{btnSignupText}</button>
         </div>
       </nav>
