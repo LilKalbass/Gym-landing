@@ -18,7 +18,7 @@ const Header = () => {
   const {logo, btnLoginText, btnSignupText} = header;
   return (
       <header className = {`${isActive ? "bg-neutral-500 py-1.5" : "bg-transparent"} 
-      fixed max-w-[1440px] left-0 right-0 mx-auto flex justify-between items-center px-[20px] lg:px-[80px] z-30 transition-all duration-300`}>
+      fixed left-0 right-0 mx-auto flex justify-between items-center px-[20px] lg:px-[80px] z-30 transition-all duration-300`}>
       {/* Logo  */}
         <a href = "">
           <img className = "h-[35px]" src={logo} alt = "logo_img"/>
