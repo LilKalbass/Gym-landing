@@ -9,7 +9,6 @@ const Banner = () => {
           <div className="pink4"></div>
           <div className = "container mx-auto h-full">
               <div className = "flex items-center h-full relative -space-x-64 ph:left-5 lg:-space-x-24 ">
-              {/*   text    */}
                   <div className = "flex-1 text-pink-400 z-10">
                       <h1 className = "h1 text-pink-400 font-medium py-3 lg:py-6"
                           data-aos = "fade-down" data-aos-delay = "500">
@@ -24,7 +23,6 @@ const Banner = () => {
                               data-aos = "fade-down" data-aos-delay = "700">{textBtn}
                       </button>
                   </div>
-              {/*    img    */}
                   <div className = "flex-1 w-full h-full bg-banner bg-cover bg-right bg-no-repeat lg:bg-center"
                        data-aos = "fade-left" data-aos-delay = "900">
                   </div>
