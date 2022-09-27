@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/gym-landing/static/css/main.e22fe74d.css",
+    "main.js": "/gym-landing/static/js/main.4006d9ab.js",
+    "static/media/bg.png": "/gym-landing/static/media/bg.e478f07dde6b27cea889.png",
+    "static/media/woman.png": "/gym-landing/static/media/woman.afe487a6399eecfa1aa7.png",
+    "static/media/img4.png": "/gym-landing/static/media/img4.3f2b41a180f0b0e9b539.png",
+    "static/media/img3.png": "/gym-landing/static/media/img3.76cafac0275672eee799.png",
+    "static/media/img1.png": "/gym-landing/static/media/img1.a5400d538dc08bb9c485.png",
+    "static/media/battle-rope.png": "/gym-landing/static/media/battle-rope.f0e838feb90e5240e67b.png",
+    "static/media/fitness.png": "/gym-landing/static/media/fitness.40c4aecb2995e4d21467.png",
+    "static/media/img2.png": "/gym-landing/static/media/img2.f49950ea6082a8572af4.png",
+    "static/media/body-pump.png": "/gym-landing/static/media/body-pump.db655530d82349eb4cbb.png",
+    "static/media/yoga.png": "/gym-landing/static/media/yoga.e95806de96273a0c68d4.png",
+    "static/media/full-body.png": "/gym-landing/static/media/full-body.88337db51a52afbb3ceb.png",
+    "static/media/resistance.png": "/gym-landing/static/media/resistance.011df5b9669edc4f464d.png",
+    "static/media/boxing.png": "/gym-landing/static/media/boxing.04062eac3922c5d3517d.png",
+    "static/media/logo.svg": "/gym-landing/static/media/logo.ec379985c40750207317b25c0cf477ae.svg",
+    "static/media/calendar.svg": "/gym-landing/static/media/calendar.316d9eb39b360280ca6b5027f5462a62.svg",
+    "static/media/price.svg": "/gym-landing/static/media/price.99fc6d830c98a274d69675502dec0aac.svg",
+    "index.html": "/gym-landing/index.html",
+    "static/media/users-icn.svg": "/gym-landing/static/media/users-icn.1c1181836b52f949c1de5db01fcd212e.svg",
+    "static/media/community-icn.svg": "/gym-landing/static/media/community-icn.6ccf103bf065aaec1be8ea4cddcb9511.svg",
+    "static/media/question-mark.svg": "/gym-landing/static/media/question-mark.ac78e0f4921dbec4cdd8586294a5bb5d.svg",
+    "static/media/chevron-right.svg": "/gym-landing/static/media/chevron-right.71538d224dceacc6efd6.svg",
+    "static/media/chevron-left.svg": "/gym-landing/static/media/chevron-left.45ae1dac0a655b3f662b.svg",
+    "static/media/bg.svg": "/gym-landing/static/media/bg.e3dec2c236c3afaf8c8a.svg",
+    "static/media/chevron-rightHov.svg": "/gym-landing/static/media/chevron-rightHov.9f18c5bfc66e4c38fdc6.svg",
+    "static/media/chevron-leftHov.svg": "/gym-landing/static/media/chevron-leftHov.9a3e9d2a94dab7c52f0d.svg",
+    "main.e22fe74d.css.map": "/gym-landing/static/css/main.e22fe74d.css.map",
+    "main.4006d9ab.js.map": "/gym-landing/static/js/main.4006d9ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e22fe74d.css",
+    "static/js/main.4006d9ab.js"
+  ]
+}
