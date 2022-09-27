@@ -37,7 +37,7 @@ const Header = () => {
                   <RiMenu4Fill className = "text-3xl text-primary-200 cursor-pointer" />
               )}
           </div>
-          <NavMobile navMobile={navMobile} />
+          <NavMobile navMobile={navMobile}/>
       </header>
   );
 };
