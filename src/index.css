@@ -56,6 +56,9 @@
   .btn-secondary {
     @apply bg-pink-400 text-neutral-500 transition;
   }
+  .btn-nav {
+    @apply btn btn-sm text-white transition hover:text-primary-200;
+  }
   .link {
     @apply text-neutral-500 text-sm uppercase font-extrabold tracking-[1px];
   }
