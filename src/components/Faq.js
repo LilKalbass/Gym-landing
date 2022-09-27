@@ -5,8 +5,8 @@ import {faq} from '../data';
 const Faq = () => {
   const {icon, title, accordions} = faq;
   return (
-      <section id = "_faq" className = "section bg-white relative">
-
+      <section id = "_faq" className = "section bg-white ">
+          <div></div>
       </section>
   );
 };
